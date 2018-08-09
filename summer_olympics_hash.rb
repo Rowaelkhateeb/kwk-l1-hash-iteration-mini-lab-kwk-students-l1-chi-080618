@@ -22,7 +22,7 @@ add_a_key_value_pair
 def iterate_through_hash
   iterate_through_hash.each do |x|
   "The #{key} summer olympics took place in #{value}."
-  end
+end
   iterate_through_keys
 
 # def iterate_through_keys
